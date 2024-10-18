@@ -83,7 +83,7 @@ facebook:
   username               : # &facebook "napoorsocapo"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/og_image.png"
+og_image                 : "/assets/images/il_image.png"
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/napo"
+      url: #"https://twitter.com/napo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/napo"
+      url: #"https://github.com/napo"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/napolnx/"
+      url: #"https://www.linkedin.com/in/napolnx/"
 
 # Reading Files
 include:
