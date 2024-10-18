@@ -11,7 +11,7 @@ header:
     - label: "more"
       url: "/about/"
   caption: "Photo credit: [**geralt**](https://www.instagram.com/gerdaltmannpixabay/)"
-excerpt: "this page contains all the material produced for the Geospatial Analysis and Representation for Data Science course for the master in Data Science University of Trento - academic year 2022/2023"
+excerpt: "This course teaches geospatial concepts and techniques."
 intro: 
   - excerpt: 
 feature_row:
