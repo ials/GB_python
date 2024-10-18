@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/napo"
+      #url: "https://twitter.com/napo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: #"https://github.com/napo"
+      #url: "https://github.com/napo"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: #"https://www.linkedin.com/in/napolnx/"
+      #url: "https://www.linkedin.com/in/napolnx/"
 
 # Reading Files
 include:
