@@ -24,13 +24,13 @@ In the next lesson the solution is then presented, thus repeating the concepts e
 
 ## Teachers
 
-- [Diego Giulani](https://webapps.unitn.it/du/en/Persona/PER0020867/Didattica)
-- [Maurizio Napolitano](http://github.com/napo)
+- [Ivan Lizarazo](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo)
+
 
 ## Lessons
 
-Maurizio Napolitano<br/>
-every Friday from 1 October to 3 December - room 12 Department of Sociology and Social Research - University of Trento
+Ivan Lizarazo<br/>
+every Wednesday & Thursday from 30 October onwards - Room 103  - Facultad de Ciencias Agrarias
 
 ## Slide about the course 
 [view the slides](https://docs.google.com/presentation/d/e/2PACX-1vSBVsLi-ND3eGZ0ZyAd-XWs453H4PRkywlYzJIVrHWnxrF1QLMe0GX4nlWq8YXeqWNNUwZS-t8IOO4e/pub?start=false&loop=false&delayms=3000) - [download](https://github.com/napo/geospatial_course_unitn/raw/master/pdf/presentation of the course - geospatial analysis.pdf) 
@@ -38,9 +38,7 @@ every Friday from 1 October to 3 December - room 12 Department of Sociology and 
 
 ## Course websites
 
-- [official page of the University of Trento](https://www.esse3.unitn.it/Guide/PaginaADErogata.do?ad_er_id=2022*N0*N0*S1*51795*94842&ANNO_ACCADEMICO=2022&mostra_percorsi=S
-)
-- [Lessons](https://napo.github.io/geospatial_course_unitn) by Maurizio Napolitano
-- [Github with code and other resources](https://github.com/napo/geospatial_course_unitn) by Maurizio Napolitano
+- [official page of the Facultad de Ciencias Agrarias](https://cienciasagrarias.bogota.unal.edu.co/inicio)
+- [Lessons](https://ials.github.io/GB_python) by Ivan Lizarazo
 
 ---
