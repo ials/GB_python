@@ -1,7 +1,7 @@
 # Geospatial analysis and representation for data science
-repository with code and documentation for the course "Geospatial analysis and representation for data science" for the students in [Data Science of the University of Trento](https://international.unitn.it/maths/master-in-data-science)
+repository with code and documentation for the course "Basic Geomatics" for the students in [Agronomic Engineering at Universidad Nacional de Colombia](https://cienciasagrarias.bogota.unal.edu.co/formacion/pregrado)
 
-web site with the content of the course - https://napo.github.io/geospatial_course_unitn/
+web site with the content of the course - https://ials.github.io/GB_python/
 
 # Course information
 ## Description
@@ -23,13 +23,13 @@ In the next lesson the solution is then presented, thus repeating the concepts e
 
 ## Teachers
 
-- [Diego Giulani](https://webapps.unitn.it/du/en/Persona/PER0020867/Didattica)
-- [Maurizio Napolitano](http://github.com/napo)
+- [Ivan Lizarazo](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo)
+
 
 ## Lessons
 
-Maurizio Napolitano<br/>
-every Friday from 1 October to 3 December - room 12 Department of Sociology and Social Research - University of Trento
+Ivan Lizarazo<br/>
+Wednesday & Thursday from 30 October onwards - Room 103 - Facultad de Ciencias Agrarias
 
 ## MyBinder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/napo/geospatial_course_unitn/HEAD?labpath=code)
@@ -42,10 +42,8 @@ every Friday from 1 October to 3 December - room 12 Department of Sociology and 
 
 ## Course websites
 
-- [official page of the University of Trento](https://www.esse3.unitn.it/Guide/PaginaADErogata.do?ad_er_id=2021*N0*N0*S1*51795*94842&ANNO_ACCADEMICO=2021&mostra_percorsi=S
-)
-- [Lessons](https://napo.github.io/geospatial_course_unitn) by Maurizio Napolitano
-- [Github with code and other resources](https://github.com/napo/geospatial_course_unitn) by Maurizio Napolitano
+- [Lessons](https://ials.github.io/GB_python) by Ivan Lizarazo
+
 
 ---
 
