@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/welcome500x300.png"
-logo                     : "assets/images/fbk88x88.png"
+logo                     : "assets/images/unal88x88.png"
 masthead_title           : #
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/napo/geospatial_course_unitn/"
+      #url: "https://github.com/napo/geospatial_course_unitn/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
