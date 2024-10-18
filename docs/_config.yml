@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geospatial Analysis and Representation for Data Science"
+title                    : "Basic Geomatics"
 title_separator          : "-"
-subtitle                 : course for the master in Data Science University of Trento
-name                     : "Maurizio Napolitano"
-description              : "he documentation produced during the course in Geospatial analysis and representation for data science for the students in data science of the University of Trento - academic year 2022/2023"
+subtitle                 : Course for Agronomic Engineering at Universidad Nacional de Colombia 
+name                     : "Ivan Lizarazo"
+description              : "This course teaches fundamental geospatial concepts & tecniques - academic year 2024"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,9 +78,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "napo"
+  username               : # &twitter "napo"
 facebook:
-  username               : &facebook "napoorsocapo"
+  username               : # &facebook "napoorsocapo"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/og_image.png"
@@ -88,9 +88,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/napo"
-    - "https://github.com/napo"
-    - "https://www.linkedin.com/in/napolnx/"
+    - # "https://twitter.com/napo"
+    - # "https://github.com/napo"
+    - # "https://www.linkedin.com/in/napolnx/"
 
 # Analytics
 analytics:
@@ -105,8 +105,8 @@ author:
   name             : Geospatial Lab
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "code, slides, documentation"
-  location         : "Trento, Italy"
-  email            : "napolitano@fbk.eu"
+  location         : "Bogotá, Colombia"
+  email            : "ializarazos@unal.edu.co"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
